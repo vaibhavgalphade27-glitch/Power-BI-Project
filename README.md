@@ -145,8 +145,8 @@ amazon-sales-powerbi-dashboard/
 
 
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/vaibhavgalphade27-glitch
+* LinkedIn: https://linkedin.com/in/vaibhavgalphade
 
 
 
